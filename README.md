@@ -4,7 +4,7 @@
 
 Profissional formada em Gestão da Tecnologia da Informação, com atuação abrangente desde o design até o desenvolvimento full stack. Conhecimentos em Java, C#, .NET, Node.js, React.js, Power BI, SQL Server, T-SQL e MySQL.
 
-Aplico princípios SOLID, Clean Code e boas práticas de arquitetura escalável. Atuo com metodologias ágeis, integração contínua, versionamento com Git e foco em performance.
+Aplico princípios SOLID, Clean Code e boas práticas. Atuo com metodologias ágeis, integração contínua, versionamento com Git e foco em performance.
 
 Estou em constante aprendizado, com foco na evolução técnica e profissional, sempre buscando entregar soluções robustas, eficientes e alinhadas aos objetivos do negócio.
 
