@@ -1,6 +1,6 @@
 # 👩🏼‍💻 Rayany Fernandes
 
-### Desenvolvedora Full Stack & Apaixonada por Código Limpo
+### Desenvolvedora Full Stack em formação & Apaixonada por Código Limpo
 
 ---
 
