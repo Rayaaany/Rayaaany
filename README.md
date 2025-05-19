@@ -101,16 +101,21 @@ Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, seguindo met
 />
 <br/>
 <br/>
-
-<p align="left">
+### 📊 Estatísticas 
+<p>
   <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Rayaaany&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    height="180"
-    style="margin-right: 20px;"  <!-- aqui aumentei a margem -->
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaaany&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    height="180"
-    style="margin-left: 20px;" <!-- opcional, só pra garantir espaço dos dois lados -->
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaaany&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
