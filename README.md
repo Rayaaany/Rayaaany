@@ -105,7 +105,6 @@ Sou apaixonada por tecnologia e acredito que compartilhar conhecimento e colabor
 <br/>
 <br/>
 
-
 ### 📊 Estatísticas
 
 <p>
