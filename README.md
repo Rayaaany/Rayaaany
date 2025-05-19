@@ -2,8 +2,6 @@
 
 **`Desenvolvedora FullStack em formação`**
 
----
-
 Meu nome é Rayany Fernandes Mendes Santana, tenho 21 anos e sou natural de São Paulo. Formada em Gestão de TI e apaixonada por transformar ideias em soluções por meio do código. Minha jornada abrange desde o design até o desenvolvimento full stack, sempre com dedicação para criar projetos robustos e elegantes.
 
 <a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers" target="_blank">
