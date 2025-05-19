@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack em Formação`**
 
-Olá! Sou Rayany Fernandes Mendes Santana, formada em Gestão de TI. Minha trajetória abrange desde o design até o desenvolvimento full stack, com foco em criar projetos robustos e elegantes.
+Olá! Sou Rayany Fernandes, formada em Gestão de TI. Minha trajetória abrange desde o design até o desenvolvimento full stack, com foco em criar projetos robustos e elegantes.
 
 Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server, T-SQL e MySQL, aplicando metodologias ágeis e princípios SOLID. Sou apaixonada por aprender, colaborar e construir soluções práticas e bem estruturadas.
 
