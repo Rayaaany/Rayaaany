@@ -2,7 +2,10 @@
 
 **`Desenvolvedora Full Stack`**
 
-Sou Rayany Fernandes, formada em Gestão da TI, com experiência como Web Designer e foco no desenvolvimento full stack. Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, seguindo metodologias ágeis e princípios SOLID. Gosto de aprender, colaborar e construir soluções práticas e bem estruturadas.
+Ola! Me chamo Rayany Fernandes, formada em Gestão da TI, com experiência como Web Designer e foco no desenvolvimento full stack. 
+
+Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, seguindo metodologias ágeis e princípios SOLID. Gosto de aprender, colaborar e construir soluções práticas e bem estruturadas.
+
 <p align="left">
     <a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers">
         <img 
@@ -96,24 +99,18 @@ Sou Rayany Fernandes, formada em Gestão da TI, com experiência como Web Design
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
-
 <br/>
 <br/>
 
 ### 📊 Estatísticas
+
 <p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="margin-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Rayaaany&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180"
   />
-
   <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaaany&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180"
   />
 </p>
