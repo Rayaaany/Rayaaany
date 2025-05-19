@@ -3,10 +3,8 @@
 ### Desenvolvedora Full Stack em formação
 
 ---
-Oi! Eu sou a Rayany Fernandes, formada em Gestão de TI e apaixonada por transformar ideias em soluções através do código. Minha jornada vai do design ao desenvolvimento full stack, sempre com muita dedicação para criar projetos robustos e elegantes.
 
-Java | C# | .NET | Node.js | React.js | SQL Server | T-SQL | MySQL  
-Metodologias Ágeis & princípios SOLID são meu guia para construir códigos limpos e funcionais.
+Oi! Eu sou a Rayany Fernandes, formada em Gestão de TI e apaixonada por transformar ideias em soluções através do código. Minha jornada vai do design ao desenvolvimento full stack, sempre com muita dedicação para criar projetos robustos e elegantes. Java | C# | .NET | Node.js | React.js | SQL Server | T-SQL | MySQL Metodologias Ágeis & princípios SOLID são meu guia para construir códigos limpos e funcionais.
 
 ---
 
