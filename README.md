@@ -2,9 +2,11 @@
 
 **`Desenvolvedora FullStack em Formação`**
 
-Olá! Sou Rayany Fernandes, formada em Gestão de TI. Minha trajetória abrange desde o design até o desenvolvimento full stack, com foco em criar projetos robustos e elegantes.
+Profissional graduada em Gestão da Tecnologia da Informação, com atuação abrangente desde design de software até desenvolvimento full stack.
 
-Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server, T-SQL e MySQL, aplicando metodologias ágeis e princípios SOLID. Sou apaixonada por aprender, colaborar e construir soluções práticas e bem estruturadas.
+Conhecimento em Java, C#, .NET, Node.js, React.js, Power BI, bancos de dados SQL Server, T-SQL e MySQL. Adoto metodologias ágeis e aplico princípios SOLID para garantir código modular, escalável e de alta qualidade.
+
+Sou focada em arquiteturas robustas, otimização de performance e integração contínua, sempre buscando entregar soluções eficientes e bem estruturadas.
 
 <a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers" target="_blank">
   <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/Rayaaany?color=ec6d8d&style=for-the-badge&labelColor=de5883&logo=star&label=Stars" />
