@@ -130,4 +130,4 @@ Sou apaixonada por criar soluções que unem eficiência técnica e usabilidade.
 ## 📫 Contato
 
 - LinkedIn: [linkedin.com/in/rayanyfernandes8008](https://linkedin.com/in/rayanyfernandes8008)
-- Email:rayanyf8@gmail.com
+- Email: rayanyf8@gmail.com
