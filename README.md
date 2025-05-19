@@ -2,12 +2,11 @@
 
 **`Desenvolvedora Full Stack`**
 
-Me chamo Rayany Fernandes, sou formada em Gestão da Tecnologia da Informação e tenho experiência como Web Designer. 
+Me chamo Rayany Fernandes, formada em Gestão da Tecnologia da Informação, com experiência como Web Designer e desenvolvedora em constante evolução.
 
-Estou sempre em evolução como desenvolvedora, com conhecimentos em tecnologias como Java, C#, .NET, Node.js, React.js, SQL Server e MySQL. Também aplico metodologias ágeis como Scrum e Kanban, seguindo os princípios SOLID para criar soluções eficientes, escaláveis e bem estruturadas.
+Atuo com tecnologias como Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, aplicando metodologias ágeis (Scrum, Kanban) e princípios SOLID.
 
-Sou apaixonada por tecnologia e acredito que compartilhar conhecimento e colaborar com outras pessoas é essencial para crescer profissionalmente e construir projetos de qualidade.
-
+Apaixonada por tecnologia, valorizo a troca de conhecimento e a construção colaborativa de soluções de qualidade.
 <p align="left">
     <a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers">
         <img 
