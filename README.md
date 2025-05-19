@@ -6,7 +6,7 @@ Profissional graduada em Gestão da Tecnologia da Informação, com experiência
 
 Possuo conhecimentos sólidos em Java, C#, .NET, Node.js, React.js, Power BI, além de bancos de dados como SQL Server, T-SQL e MySQL. Trabalho com metodologias ágeis e aplico os princípios SOLID para garantir a criação de código modular, escalável e de alta qualidade.
 
-Tenho foco em arquiteturas robustas, otimização de performance e integração contínua, sempre buscando entregar soluções eficientes, bem estruturadas e alinhadas às necessidades do negócio.
+Comprometida com a melhoria contínua, sempre buscando aprender e evoluir profissionalmente. Tenho foco em arquiteturas robustas, otimização de performance e integração contínua, com o objetivo de entregar soluções eficientes e bem estruturadas.
 
 <a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers" target="_blank">
   <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/Rayaaany?color=ec6d8d&style=for-the-badge&labelColor=de5883&logo=star&label=Stars" />
