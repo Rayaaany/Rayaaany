@@ -113,13 +113,15 @@ Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server, T-SQL e MySQL, segui
 
 ### 📊 Estatísticas 
 
-<p>
+### 📊 Estatísticas  
+
+<p align="left">
   <img 
     alt="GitHub Stats" 
     height="180" 
-    style="margin-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Rayaaany&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     alt="Top Languages" 
     height="180" 
