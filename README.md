@@ -114,7 +114,7 @@ Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server, T-SQL e MySQL, segui
 
 ### 📊 Estatísticas 
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img 
     alt="GitHub Stats" 
     height="200" 
