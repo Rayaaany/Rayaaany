@@ -4,7 +4,7 @@
 
 Ola! Me chamo Rayany Fernandes, formada em Gestão da TI, com experiência como Web Designer e foco no desenvolvimento full stack. 
 
-Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, seguindo metodologias ágeis e princípios SOLID. Gosto de aprender, colaborar e construir soluções práticas e bem estruturadas.
+Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server, T-SQL e MySQL, seguindo metodologias ágeis e princípios SOLID. Gosto de aprender, colaborar e construir soluções práticas e bem estruturadas.
 
 <p align="left">
     <a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers">
@@ -34,6 +34,14 @@ Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, seguindo met
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img
+    align="left"
+    alt="T-SQL"
+    title="T-SQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
 />
 <img
     align="left"
@@ -102,6 +110,8 @@ Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, seguindo met
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas 
 
 <p>
@@ -113,11 +123,10 @@ Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, seguindo met
     src="https://github-readme-stats.vercel.app/api?username=Rayaaany&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaaany&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaaany&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
