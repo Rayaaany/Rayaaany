@@ -25,7 +25,7 @@ Metodologias Ágeis & princípios SOLID são meu guia para construir códigos li
 
 ---
 
-### 🤖 Ferramentas e tecnologias que domino
+### 🤖 Linguagens e Tecnologias
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="36" style="margin-right:10px" />
