@@ -1,42 +1,31 @@
 # 👩🏼‍💻 Rayany Fernandes
 
-### Desenvolvedora Full Stack em formação & Apaixonada por Código Limpo
+### Desenvolvedora Full Stack em formação
+
+---
+Oi! Eu sou a Rayany Fernandes, formada em Gestão de TI e apaixonada por transformar ideias em soluções através do código. Minha jornada vai do design ao desenvolvimento full stack, sempre com muita dedicação para criar projetos robustos e elegantes.
 
 ---
 
-🚀 **Quem sou?**
-
-Sou Rayany Fernandes, formada em Gestão de TI, com experiência que vai além do design — do Web Design ao desenvolvimento full stack, minha jornada é movida por linhas de código que constroem soluções robustas e elegantes.
-
----
-
-🔧 **Stack de Guerra**
+**Minha stack de guerra**
 
 Java | C# | .NET | Node.js | React.js | SQL Server | T-SQL | MySQL  
-Metodologias Ágeis & Princípios SOLID são minha bússola no desenvolvimento.
-
----
-
-💡 **Minha vibe?**
-
-Aprender sempre.  
-Colaborar sempre.  
-Criar código que funcione e que faça sentido.
+Metodologias Ágeis & princípios SOLID são meu guia para construir códigos limpos e funcionais.
 
 ---
 
 ### ✨ GitHub
 
 <a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers" target="_blank">
-  <img alt="Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rayaaany?color=7dc243&style=for-the-badge&labelColor=4a8523&logo=star&label=Estrelas" />
+  <img alt="Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rayaaany?color=ec6d8d&style=for-the-badge&labelColor=de5883&logo=star&label=Estrelas" />
 </a>
 <a href="https://github.com/Rayaaany?tab=followers" target="_blank">
-  <img alt="Seguidores GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Rayaaany?color=3565a6&labelColor=2a4170&style=for-the-badge&logo=github&label=Seguidores&logoColor=fff" />
+  <img alt="Seguidores GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Rayaaany?color=ac5382&labelColor=79365c&style=for-the-badge&logo=github&label=Seguidores&logoColor=fff" />
 </a>
 
 ---
 
-### 🤖 Ferramentas e Tecnologias que domino
+### 🤖 Ferramentas e tecnologias que domino
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="36" style="margin-right:10px" />
@@ -56,13 +45,15 @@ Criar código que funcione e que faça sentido.
 ### 📊 GitHub Insights
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rayaaany&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" alt="Estatísticas GitHub" />
+  <img height="170" 
+       src="https://github-readme-stats.vercel.app/api?username=Rayaaany&show_icons=true&include_all_commits=true&locale=pt-br&title_color=ff69b4&icon_color=ff69b4&text_color=f8f8f8&bg_color=0d1117" 
+       alt="Estatísticas GitHub" />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaaany&theme=dark&layout=compact&langs_count=8&custom_title=Top%20Tecnologias" alt="Linguagens mais usadas" />
+  <img height="170" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaaany&layout=compact&langs_count=8&custom_title=Top%20Tecnologias&title_color=ff69b4&text_color=f8f8f8&bg_color=0d1117" 
+       alt="Linguagens mais usadas" />
 </p>
 
 ---
 
 ✨ **Vamos codar juntos?** ✨
-
-
