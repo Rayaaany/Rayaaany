@@ -28,8 +28,6 @@ Meu nome é Rayany Fernandes Mendes Santana, tenho 21 anos e sou natural de São
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="36" style="margin-right:10px" />
 </p>
 
----
-
 ### 📊 Estatísticas
 
 <p align="left">
