@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Full Stack`**
 
-Ola! Me chamo Rayany Fernandes, formada em Gestão da TI, com experiência como Web Designer e foco no desenvolvimento full stack. 
+Ola! Me chamo Rayany Fernandes, formada em Gestão de TI, com experiência como Web Designer e foco no desenvolvimento full stack. 
 
 Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server, T-SQL e MySQL, seguindo metodologias ágeis e princípios SOLID. Gosto de aprender, colaborar e construir soluções práticas e bem estruturadas.
 
