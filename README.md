@@ -1,6 +1,6 @@
 # 👩🏼‍💻 Rayany Fernandes
 
-**`Desenvolvedora FullStack em formação`**
+**`Desenvolvedora FullStack em Formação`**
 
 Olá! Sou Rayany Fernandes Mendes Santana, formada em Gestão de TI. Minha trajetória abrange desde o design até o desenvolvimento full stack, com foco em criar projetos robustos e elegantes.
 
