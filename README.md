@@ -123,6 +123,19 @@ Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server, T-SQL e MySQL, segui
   <img 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaaany&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaaany&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
+
+---
+
+## 🙋‍♀️ Sobre Mim
+
+Sou apaixonada por criar soluções que unem eficiência técnica e usabilidade. Acredito no poder do aprendizado contínuo e valorizo muito o trabalho em equipe e a colaboração. Meu objetivo é atuar como desenvolvedora full stack, entregando códigos limpos e produtos que realmente façam a diferença.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [linkedin.com/in/rayanyfernandes8008](https://linkedin.com/in/rayanyfernandes8008)
+- Email:rayanyf8@gmail.com
