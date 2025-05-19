@@ -1,130 +1,68 @@
- 👩🏼‍💻 Rayany Fernandes
+# 👩🏼‍💻 Rayany Fernandes
 
-**`Desenvolvedora Full Stack`**
+### Desenvolvedora Full Stack & Apaixonada por Código Limpo
 
-Ola! Me chamo Rayany Fernandes, formada em Gestão de TI, com experiência como Web Designer e foco no desenvolvimento full stack. 
+---
 
-Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server, T-SQL e MySQL, seguindo metodologias ágeis e princípios SOLID. Gosto de aprender, colaborar e construir soluções práticas e bem estruturadas.
+🚀 **Quem sou?**
 
-  <a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers">
-        <img
-            alt="Stars"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/Rayaaany?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
-        />
-    </a>
-    <a href="https://github.com/Rayaaany?tab=followers">
-        <img
-            alt="Followers"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/Rayaaany?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
-        />
-    </a>
+Sou Rayany Fernandes, formada em Gestão de TI, com experiência que vai além do design — do Web Design ao desenvolvimento full stack, minha jornada é movida por linhas de código que constroem soluções robustas e elegantes.
+
+---
+
+🔧 **Stack de Guerra**
+
+Java | C# | .NET | Node.js | React.js | SQL Server | T-SQL | MySQL  
+Metodologias Ágeis & Princípios SOLID são minha bússola no desenvolvimento.
+
+---
+
+💡 **Minha vibe?**
+
+Aprender sempre.  
+Colaborar sempre.  
+Criar código que funcione e que faça sentido.
+
+---
+
+### ✨ GitHub
+
+<a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rayaaany?color=7dc243&style=for-the-badge&labelColor=4a8523&logo=star&label=Estrelas" />
+</a>
+<a href="https://github.com/Rayaaany?tab=followers" target="_blank">
+  <img alt="Seguidores GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Rayaaany?color=3565a6&labelColor=2a4170&style=for-the-badge&logo=github&label=Seguidores&logoColor=fff" />
+</a>
+
+---
+
+### 🤖 Ferramentas e Tecnologias que domino
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="36" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="36" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title=".NET" width="36" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="36" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="36" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="36" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="T-SQL" width="36" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="36" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="36" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="36" style="margin-right:10px" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img
-    align="left"
-    alt="T-SQL"
-    title="T-SQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-/>
-<img
-    align="left"
-    alt=".NET"
-    title=".NET"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-/>
-<img
-    align="left"
-    alt="C#"
-    title="C#"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img
-    align="left"
-    alt="Node.js"
-    title="Node.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img
-    align="left"
-    alt="React"
-    title="React"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<br/>
-<br/>
-
----
-
-### 📊 Estatísticas  
+### 📊 GitHub Insights
 
 <p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Rayaaany&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaaany&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rayaaany&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" alt="Estatísticas GitHub" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayaaany&theme=dark&layout=compact&langs_count=8&custom_title=Top%20Tecnologias" alt="Linguagens mais usadas" />
 </p>
+
+---
+
+✨ **Vamos codar juntos?** ✨
 
 
