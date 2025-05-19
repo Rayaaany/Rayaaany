@@ -101,7 +101,9 @@ Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server e MySQL, seguindo met
 />
 <br/>
 <br/>
+
 ### 📊 Estatísticas 
+
 <p>
   <img 
     align="left" 
