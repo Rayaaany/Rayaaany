@@ -17,10 +17,10 @@ Metodologias Ágeis & princípios SOLID são meu guia para construir códigos li
 ### ✨ GitHub
 
 <a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers" target="_blank">
-  <img alt="Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rayaaany?color=ec6d8d&style=for-the-badge&labelColor=de5883&logo=star&label=Estrelas" />
+  <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/Rayaaany?color=ec6d8d&style=for-the-badge&labelColor=de5883&logo=star&label=Stars" />
 </a>
 <a href="https://github.com/Rayaaany?tab=followers" target="_blank">
-  <img alt="Seguidores GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Rayaaany?color=ac5382&labelColor=79365c&style=for-the-badge&logo=github&label=Seguidores&logoColor=fff" />
+  <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/Rayaaany?color=ac5382&labelColor=79365c&style=for-the-badge&logo=github&label=Followers&logoColor=fff" />
 </a>
 
 ---
