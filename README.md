@@ -2,11 +2,11 @@
 
 **`Desenvolvedora FullStack em Formação`**
 
-Profissional graduada em Gestão da Tecnologia da Informação, com experiência abrangente que vai desde o design de software até o desenvolvimento full stack.
+Profissional formada em Gestão da Tecnologia da Informação, com atuação abrangente desde design até em desenvolvimento full stack. Conhecimentos em Java, C#, .NET, Node.js, React.js, Power BI, SQL Server, T-SQL e MySQL.
 
-Possuo conhecimentos sólidos em Java, C#, .NET, Node.js, React.js, Power BI, além de bancos de dados como SQL Server, T-SQL e MySQL. Trabalho com metodologias ágeis e aplico os princípios SOLID para garantir a criação de código modular, escalável e de alta qualidade.
+Aplico princípios de SOLID, Clean Code e arquiteturas escaláveis. Experiência com metodologias ágeis, integração contínua, versionamento com Git e otimização de performance.
 
-Comprometida com a melhoria contínua, sempre buscando aprender e evoluir profissionalmente. Tenho foco em arquiteturas robustas, otimização de performance e integração contínua, com o objetivo de entregar soluções eficientes e bem estruturadas.
+Foco em entregar soluções robustas, eficientes e alinhadas aos objetivos do negócio. Comprometida com a melhoria contínua e sempre em busca de evolução profissional e técnica.
 
 <a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers" target="_blank">
   <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/Rayaaany?color=ec6d8d&style=for-the-badge&labelColor=de5883&logo=star&label=Stars" />
