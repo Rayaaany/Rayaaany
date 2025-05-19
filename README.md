@@ -57,3 +57,4 @@ Metodologias Ágeis & princípios SOLID são meu guia para construir códigos li
 ---
 
 ✨ **Vamos codar juntos?** ✨
+📩 [rayanyf8@gmail.com](mailto:rayanyf8@gmail.com)
