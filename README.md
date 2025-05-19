@@ -9,7 +9,7 @@ Estou sempre em evolução como desenvolvedora, com conhecimentos em tecnologias
 Sou apaixonada por tecnologia e acredito que compartilhar conhecimento e colaborar com outras pessoas é essencial para crescer profissionalmente e construir projetos de qualidade.
 
 <p align="left">
-    <a href="https://github.com/Rayaany?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Rayaaany?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
