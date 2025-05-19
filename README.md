@@ -120,11 +120,9 @@ Trabalho com Java, C#, .NET, Node.js, React.js, SQL Server, T-SQL e MySQL, segui
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=Rayaaany&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
     alt="Top Languages" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaaany&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
-
