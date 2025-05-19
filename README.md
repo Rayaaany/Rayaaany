@@ -30,7 +30,7 @@ Meu nome é Rayany Fernandes Mendes Santana, tenho 21 anos e sou natural de São
 
 ---
 
-### 📊 GitHub Insights
+### 📊 Estatísticas
 
 <p align="left">
   <img height="170" 
